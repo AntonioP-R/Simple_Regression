@@ -1,1 +1,3 @@
 # Simple_Regression
+
+This Package has been created to give to users an easy experience, in fact the functions that are contained in it are very easy to use and also their outputs are very clear. In the package there are two different functions that can be used in many fields: the first is a function that calculates a simple regression model, while the other is a function that calculates the F-Test about R-Squared (goodness of fit). In addition you can consult the package's documentation in which are contained more information regarding the way in which you can apply the functions and the way in which you can read (correctly) the outputs.

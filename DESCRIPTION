@@ -1,0 +1,9 @@
+Package: SimpleRegression
+Type: Package
+Title: Simple Linear Regression
+Version: 0.0-0
+Date: 2020-04-09
+Author: AntonioP-R
+Maintainer: AntonioP-R <antoniop.r0033@gmail.com>
+Description: This Package contains two functions: Simple Linear Regression and F_test. 
+License: GPL-3

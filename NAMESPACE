@@ -1,0 +1,3 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("graphics", "abline", "grid", "hist", "par", "plot")
+importFrom("utils", "read.csv")

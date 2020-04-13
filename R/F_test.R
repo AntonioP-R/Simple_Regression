@@ -4,7 +4,7 @@ F_test<-function(R_Squared,Observations,Significance_Level = 0.05){
       if(is.numeric(Significance_Level)&Significance_Level==0.05
          |Significance_Level==0.01|Significance_Level==0.001){
         test<-((R_Squared*(Observations-2))/(1-R_Squared))
-        F_DataSet <- read.csv("~/Desktop/Simple_Regression/data/Fisher.csv")
+        F_DataSet <- read.csv("~/Desktop/GitHub/Simple_Regression/data/Fisher.csv")
         if((Observations-2)<=30&Significance_Level==0.05){
           CriticalValues<-F_DataSet[Observations-2,2]
         }
